@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://plausible-back.localsite.io/wp-sitemap.xml
+Sitemap: http://full-color-range.local/wp-sitemap.xml
